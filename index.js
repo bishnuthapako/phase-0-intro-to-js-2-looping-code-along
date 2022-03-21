@@ -15,6 +15,24 @@ function writeCards(names){
 
 
 function countDown(){
+    let counter = 10;
+    while(counter >= 0){
+        console.log(counter --)
+    }
+}
+
+
+
+
+
+
+
+
+
+
+    /*
+
+function countDown(){
     let counter = 0;
         while(counter < 11){
         console.log(counter)
@@ -23,6 +41,8 @@ function countDown(){
     return counter
     }
     countDown() 
+
+    */
 
    
 
